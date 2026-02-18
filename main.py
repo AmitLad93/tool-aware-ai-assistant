@@ -1,5 +1,5 @@
 """
-Simple AI Assistant with Tool Support (Beginner-Friendly)
+Simple AI Assistant with Tool Support
 
 This script runs a small AI assistant in the terminal.
 
@@ -183,4 +183,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+
     main()
