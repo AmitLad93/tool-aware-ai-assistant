@@ -1,0 +1,16 @@
+[project]
+name = "tool-aware-ai-assistant"
+version = "0.1.0"
+description = "An AI assistant that combines natural language interaction with trusted Python tools, demonstrating safe and explainable LLM usage through clear separation of reasoning and execution."
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "langchain>=0.2.10",
+    "langchain-openai>=0.1.10",
+    "langgraph>=0.0.45",
+    "python-dotenv>=1.0.1",
+]
+
+[project.urls]
+Repository = "https://github.com/your-username/tool-aware-ai-assistant"
